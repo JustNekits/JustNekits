@@ -4,7 +4,7 @@ I am a typical student of high school that currently learns programming, getting
 Currently, I'm learning object-oriented programming and improving my english speech.
 I am looking to become a student of Innopolis University.
 How to reach me:
-                [https://t.me/JustNekits]Telegram(url)
+                [Telegram](https://t.me/JustNekits)
 
 <!---
 JustNekits/JustNekits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
